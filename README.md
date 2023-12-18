@@ -656,4 +656,5 @@ Delete a Recipe
 ## Exit
 
 Exit the Script
+
 ![step 6](./exercise_1.6/p7step6.png)
